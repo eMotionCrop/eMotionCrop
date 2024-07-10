@@ -1,7 +1,7 @@
 ```js
 document.write("Hello World");
-Developer dev = new Developer(Icon7);
-const Icon7 = {
+Developer dev = new Developer(Funai);
+const Funai = {
     pronouns: "he" | "his",
     code: [Javascript, HTML, CSS],
     editors: [VS Code, Sublime Text 3],
