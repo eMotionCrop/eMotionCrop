@@ -14,7 +14,3 @@ if(success == false){
     party();
 };
 ```
-
-<p align="center">
-  <img src="https://github.com/eMotionCrop/eMotionCrop/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
