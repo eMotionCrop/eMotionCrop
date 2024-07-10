@@ -16,5 +16,5 @@ if(success == false){
 ```
 
 <p align="center">
-  <img src="https://github.com/IamIcon7/IamIcon7/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/eMotionCrop/eMotionCrop/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
